@@ -1,0 +1,10 @@
+{
+  "name": "Text Lowercase",
+  "description": "Unicode-aware lowercase transform.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/momen-suleman/text-lowercase",
+  "tags": [
+    "text",
+    "case"
+  ]
+}

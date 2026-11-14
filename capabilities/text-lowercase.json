@@ -1,0 +1,8 @@
+{
+  "kind": "capability",
+  "name": "Text Lowercase",
+  "description": "Unicode-aware lowercase transform.",
+  "category": "Transform",
+  "endpoint": "http://127.0.0.1:9331",
+  "timeoutSecs": 15
+}
